@@ -1,0 +1,20 @@
+.Blog-article{
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    width: 400px;
+    text-align: start;
+   
+    a {
+        text-decoration: none;
+        color: #000;
+    }
+
+    a:hover{
+        color: #234996;
+    }
+
+    p {
+        font-style: italic;
+    }
+}
